@@ -4,5 +4,5 @@
 
 
 export function obtenerRobotos(){
-    return ['Megaman', 'Roboto', 'Ironman', 'Ulton']
+    return ['Megaman', 'Roboto', 'Ironman', 'Ultron']
 }
